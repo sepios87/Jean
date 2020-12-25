@@ -1,4 +1,4 @@
-# Jean
+# Jean 🧪
 
 ![image](https://github.com/sepios87/Jean/blob/master/illustrationsGit/1.PNG)
 
